@@ -156,7 +156,7 @@ Cada notícia apresenta:
 ## 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/market-news-intelligence-platform.git
+git clone https://github.com/tallisgrado/market-news-intelligence-platform.git
 ```
 
 ## 2. Acessar a Pasta
